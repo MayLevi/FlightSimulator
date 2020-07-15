@@ -227,6 +227,6 @@ imports / technologies:
 
 ## Authors
 
-* **Daniel Paz** - *Part of the project program* - [Profile](https://github.com/DanielPaz6)
-* **Omer Nahum** - *Part of the project program* - [Profile](https://github.com/OmerNahum/)
+* **May Levi** - *Part of the project program*
+* **Gil Sofi** - *Part of the project program*
 
